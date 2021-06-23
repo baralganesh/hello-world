@@ -7,4 +7,6 @@
 <h2> After applying to docker And Ansible</h2>
 <hr>
 <p>
-Now modified ansible to delete exisitn container & image of same name and also ignore the errors. </p>
+Now modified ansible to delete exisitn container & image of same name and also ignore the errors. <br>
+Second lined added for two playbooks
+</p>
